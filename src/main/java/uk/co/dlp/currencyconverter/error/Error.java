@@ -12,15 +12,6 @@ public class Error {
     this.message = message;
   }
 
-
-  public String getKey() {
-    return key;
-  }
-
-  public String getMessage() {
-    return message;
-  }
-
   @Override
   public String toString() {
     return "Error{" +
