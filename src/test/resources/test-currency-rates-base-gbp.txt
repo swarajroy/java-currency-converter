@@ -1,0 +1,8 @@
+COUNTRY, NAME, CODE, RATE // Have not included all currencies based to GBP only chosen a handful few
+United Arab Emirates, Dirhams, AED, 5.04
+United Kingdom Of Great Britain and Northern Ireland, Pound Sterling, GBP, 1.00
+Australia, Dollars, AUD, 1.8914137
+United States Of America, US Dollar, USD, 1.37
+
+
+
